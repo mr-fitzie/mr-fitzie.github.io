@@ -2,41 +2,44 @@
 <html>
 <head>
   <style>
-    img.centered
-{
-	position: absolute;
-	max-width: 80%;
-	top: 10%;
-	left: 10%;
-	border-radius: 3px;
-	box-shadow: 0 3px 6px rgba(0,0,0,0.9);
-}
-
-img.centered:empty
-{
-	top: 50%;
-	left: 50%;
-	-webkit-transform: translate(-50%, -50%);
-	-moz-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	-o-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
-}
-
-@media screen and (orientation: portrait) {
-  img.centered {
-      max-width: 90%;
-  }
-}
-
-@media screen and (orientation: landscape) {
-  img.centered {
-      max-height: 90%;
-  }
-}
+	div.footer
+	{
+	  position: absolute;
+	  bottom: 5px;
+	  right: 5px;
+	  color: #aaa;
+	}
+	img.centered
+	{
+		position: absolute;
+		max-width: 80%;
+		top: 10%;
+		left: 10%;
+	}
+	img.centered:empty
+	{
+		top: 50%;
+		left: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		-moz-transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		-o-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+	@media screen and (orientation: portrait) {
+	  img.centered {
+	      max-width: 90%;
+	  }
+	}
+	@media screen and (orientation: landscape) {
+	  img.centered {
+	      max-height: 90%;
+	  }
+	}
   </style>
 </head>
 <body>
-  <img src="logo.png" class="centered" />
+  <img src="logo.png" class="centered" alt="synthtc"/>
+  <div class="footer">synthtc.com</div>
 </body>
 </html>
