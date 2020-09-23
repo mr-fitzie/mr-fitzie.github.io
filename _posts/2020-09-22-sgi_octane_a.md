@@ -3,7 +3,7 @@ title: Silicon Graphics Octane (a)
 header:
   overlay_color: "#472b91"
 categories:
-  - retro-computers
+  - retro_computers
   - sgi
 tags:
   - sgi

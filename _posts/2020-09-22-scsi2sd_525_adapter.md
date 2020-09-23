@@ -21,3 +21,4 @@ gallery:
 
 Adapter to install SCSI2SD v5.1 / v6 into an internal 5.25" Drive Bay
 
+{% include gallery caption="SCSI2SD 3.5" Internal 5.25" Adapter" %}
