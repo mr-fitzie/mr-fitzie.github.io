@@ -1,5 +1,7 @@
 ---
 title: Silicon Graphics Octane (a)
+header:
+    overlay_color: #472b91
 excerpt: First Octane
 manufacturer: SGI
 ---

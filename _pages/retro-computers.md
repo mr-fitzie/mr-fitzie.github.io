@@ -1,8 +1,11 @@
 ---
 title: Retro-Computers
 layout: category
-permalink: /retro_computers/
+permalink: /retro-computers/
 taxonomy: retro-computers
+header:
+    overlay_color: #999
+excerpt: Retro Computing is fun
 ---
 
-Sample post listing for the category `Edge Case`.
+Sample post listing for the category `Retro Computers`.

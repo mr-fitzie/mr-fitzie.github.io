@@ -1,12 +1,12 @@
 ---
 title: Sun SPARCclassic
+header:
+  overlay_color: "#5d87a1"
 categories:
     - retro-computers
 tags:
     - sun
 excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
-header:
-  overlay_color: "#333"    
 ---
 
 ## Specs
