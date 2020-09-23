@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.9"
   overlay_image: /assets/images/home-header-ricardo-gomez-angel-zUtQf1VdYjY-unsplash.jpg
   # actions:
   #   - label: "Download"
