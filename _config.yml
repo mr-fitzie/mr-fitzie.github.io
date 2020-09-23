@@ -86,6 +86,9 @@ footer:
     #   url: "https://instagram.com/"
 
 collections:
+  retro:
+    output: true
+    permalink: /:collection/:path/
   sgi:
     output: true
     permalink: /:collection/:path/
@@ -101,19 +104,10 @@ defaults:
     values:
       layout: single
       #author_profile: true
-  # _sgi
+  # _retro
   - scope:
       path: ""
-      type: sgi
-    values:
-      layout: single
-      #author_profile: true
-      sidebar:
-        nav: retro
-  # _next
-  - scope:
-      path: ""
-      type: next
+      type: retro
     values:
       layout: single
       #author_profile: true

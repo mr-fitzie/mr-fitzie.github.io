@@ -2,9 +2,13 @@ main:
   # - title: "Posts"
   #   url: /posts/
   - title: NeXT
-    url: /next/
+    url: /retro/next/
   - title: SGI
-    url: /sgi/
+    url: /retro/sgi/
+  - title: SUN
+    url: /retro/sun/
+  - title: Collections
+    url: /collection-archive/
   # - title: Categories
   #   url: /categories/
   # - title: Tags
@@ -16,12 +20,16 @@ retro:
   - title: NeXT
     children:
       - title: Turbo
-        url: /next/turbo/
+        url: /retro/next/turbo/
       - title: Turbo Color
-        url: /next/turbo_color/
+        url: /retro/next/turbo_color/
   - title: SGI
     children:
       - title: Octane (a)
-        url: /sgi/octane_a/
+        url: /retro/sgi/octane_a/
       - title: Octane (b)
-        url: /sgi/octane_b/
+        url: /retro/sgi/octane_b/
+  - title: Sun
+    children:
+      - title: SPARCclassic
+        url: /retro/sun/sparcclassic
