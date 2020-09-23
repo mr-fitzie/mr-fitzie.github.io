@@ -2,8 +2,15 @@
 title: NeXT NeXTstation Turbo Color
 excerpt: Second NeXTstation
 header:
-    overlay_color: "#333"
+  overlay_color: "#333"
 manufacturer: NeXT
+sidebar:
+  - title: Manufacturer
+    text: NeXT
+  - title: Model
+    text: NeXTstation Turbo Color
+  - title: Model Number
+    text: N1200
 ---
 
 ## Specs

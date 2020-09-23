@@ -14,13 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SYNTHTC
-email:
+subtitle: subtitle
+#email:
 description: >- # this means to ignore newlines until "baseurl:"
   Retro Computing focused 3D Printable designs
-twitter_username: username
-github_username: username
+#twitter_username: username
+#github_username: username
 minimal_mistakes_skin: neon
 search: false
+logo: assets/images/logo.png
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -55,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Chris"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Cars, Retro Computing and 3D Printing"
+  #name: "Chris"
+  #avatar: "/assets/images/bio-photo.jpg"
+  #bio: "Cars, Retro Computing and 3D Printing"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -75,7 +78,7 @@ author:
 footer:
   links:
     - label: "Thingiverse"
-      icon: "fab fa-fw fa-cube"
+      icon: "fab fa-fw fa-cubes"
       url: "https://www.thingiverse.com/mr_fitz/designs"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
@@ -97,21 +100,22 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
+      related: true
   # _retro
   - scope:
       path: ""
       type: retro
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
       sidebar:
         nav: retro
 

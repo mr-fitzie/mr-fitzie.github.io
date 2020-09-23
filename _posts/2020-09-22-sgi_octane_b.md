@@ -1,11 +1,18 @@
 ---
 title: Silicon Graphics Octane (b)
 header:
-    overlay_color: "#472b91"
+  overlay_color: "#472b91"
 categories:
-    - retro-computers
+  - retro-computers
 tags:
-    - sgi
+  - sgi
+sidebar:
+    - title: Manufacturer
+      text: Silicon Graphics
+    - title: Model
+      text: Octane
+    - title: Model Number
+      text: CMNB015ANF250
 ---
 
 ## Specs

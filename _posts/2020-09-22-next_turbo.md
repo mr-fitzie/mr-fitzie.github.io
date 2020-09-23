@@ -1,11 +1,18 @@
 ---
 title: NeXT NeXTstation Turbo
 header:
-    overlay_color: "#333"
+  overlay_color: "#333"
 categories:
-    - retro-computers
+  - retro-computers
 tags:
-    - next
+  - next
+sidebar:
+  - title: Manufacturer
+    text: NeXT
+  - title: Model
+    text: NeXTstation
+  - title: Model Number
+    text: N1100
 ---
 
 ## Specs
