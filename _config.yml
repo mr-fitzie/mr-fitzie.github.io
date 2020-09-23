@@ -85,18 +85,15 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+collections:
+  sgi:
+    output: true
+    permalink: /:collection/:path/
+  next:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: true
-#       share: true
-#       related: true
   # _pages
   - scope:
       path: "_pages"
@@ -104,6 +101,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _sgi
+  - scope:
+      path: ""
+      type: sgi
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: sgi
+  # _next
+  - scope:
+      path: ""
+      type: next
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: next
 
 category_archive:
   type: liquid

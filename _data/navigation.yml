@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  # - title: "Posts"
+  #   url: /posts/
+  - title: SGI
+    url: /sgi/
+  - title: NeXT
+    url: /next/
+  - title: Categories
     url: /categories/
-  - title: "Tags"
+  - title: Tags
     url: /tags/
-  - title: "About"
+  - title: About
     url: /about/
