@@ -1,8 +1,8 @@
 ---
 title: Retro-Computers
-layout: category
+layout: tag
 permalink: /retro_computers/
-taxonomy: retro_computers
+taxonomy: specs
 header:
   overlay_color: "#333"
 except:

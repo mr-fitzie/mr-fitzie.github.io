@@ -2,7 +2,7 @@
 title: NeXT
 layout: tag
 permalink: /retro_computers/next/
-entries_layout: grid
+#entries_layout: grid
 taxonomy: next
 excerpt: NeXT Computer
 header:
