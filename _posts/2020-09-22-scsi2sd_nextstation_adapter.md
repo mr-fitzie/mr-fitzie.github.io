@@ -24,4 +24,4 @@ Adapter to install SCSI2SD v5.1 / v6 into a NeXTstation
 
 {% include gallery caption="SCSI2SD v5.1 / v6 NeXTstation Adapter" %}
 
-[Download from Thingiverse](https://www.thingiverse.com/thing:3090387){: .btn .btn--primary}
+[Download from Thingiverse](https://www.thingiverse.com/thing:3090387){: .btn }
