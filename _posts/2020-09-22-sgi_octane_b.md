@@ -18,6 +18,8 @@ sidebar:
     text: CMNB015ANF250
 ---
 
+IRIX Workstation
+
 ## Specs
 
 |             | Model                     | Model Number       |
@@ -38,3 +40,11 @@ sidebar:
 | POWERSUPPLY | Cherokee                  | SP360 1A Rev C     |
 | INPUT       | SGI Granite Keyboard      | RT6856T            |
 |             | Logitech PS/2Mouse        |                    |
+
+## Operating System
+
+IRIX 6.5.16
+
+## Software
+
+Flame 7.7.2

@@ -11,8 +11,8 @@ header:
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/zUtQf1VdYjY)"
 excerpt: "Design, 3D Printing and Retro-Computing"
-intro: 
-  - excerpt: 'Explore Services'
+# intro: 
+#   - excerpt: Explore
 feature_row:
   - image_path: /assets/images/home-ricardo-gomez-angel-wgtHi5DwPU4-unsplash-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/photos/wgtHi5DwPU4)"

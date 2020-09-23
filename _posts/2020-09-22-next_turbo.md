@@ -1,7 +1,7 @@
 ---
 title: NeXT NeXTstation Turbo
 header:
-  overlay_color: "#222"
+  overlay_image: /assets/images/retro-next-serhii-butenko-zx2Vc1zPDIs-unsplash.jpg
 categories:
   - retro_computers
   - next
@@ -18,6 +18,8 @@ sidebar:
     text: N1100
 ---
 
+Beautifully designed "slab" high-end workstation
+
 ## Specs
 
 |         | Model                       | Model Number |
@@ -30,3 +32,7 @@ sidebar:
 | VIDEO   | 17" MegaPixel Monitor       | N4000A |
 | INPUT   | Non-ADB US Keyboard         | |
 |         | Non-ADB Mouse               | |
+
+## Operating System
+
+NeXTSTEP 3.3

@@ -18,6 +18,8 @@ sidebar:
     text: 4/15    
 ---
 
+Iconic lunchbox design
+
 ## Specs
 
 |         | Model                       | Model Number |
@@ -27,3 +29,7 @@ sidebar:
 | STORAGE |  | |
 | VIDEO   |  | |
 | INPUT   | Sun Type 6 Keyboard | 320-1272-01 |
+
+## Operating System
+
+SunOS

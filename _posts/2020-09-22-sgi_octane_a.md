@@ -18,6 +18,8 @@ sidebar:
     text: CMNB015ANF175  
 ---
 
+IRIX Workstation
+
 ## Specs
 
 |             | Model                     | Model Number       |
@@ -34,3 +36,9 @@ sidebar:
 | POWERSUPPLY |                           |                    |
 | INPUT       | SGI Granite Keyboard      | RT6856T            |
 |             | Logitech PS/2Mouse        |                    |
+
+## Operating System
+
+IRIX 6.5.30
+
+## Software
