@@ -1,8 +1,18 @@
 ---
 title: NeXTstation Turbo Color
-excerpt: "The Lhasa Apso is a non-sporting dog breed originating in Tibet."
+excerpt: Second NeXTstation
 ---
 
-> The Lhasa Apso (/ˈlɑːsə ˈæpsoʊ/ lah-sə ap-soh) is a non-sporting dog breed originating in Tibet. It was bred as an interior sentinel in the Buddhist monasteries, to alert the monks to any intruders who entered. Lhasa is the capital city of Tibet, and apso is a word in the Tibetan language meaning "bearded", so, Lhasa Apso simply means "long-haired Lhasa dog". There are, however, some who claim that the word "apso" is a form of the Tibetan word "rapso", meaning "goat-like", which would make the equivalent translation "wooly Lhasa dog".
+## Specs
 
-> <cite>From Wikipedia, the free encyclopedia</cite>
+|         |                    |
+|---------|--------------------|
+| CPU     | 68040 33mhz        |
+| ROM     | V74                |
+| RAM     | 128mb              |
+| STORAGE | SCSI2SD v5.1       |
+|         | 4x 2GB Partitions  |
+| VIDEO   | 13W3 to VGA        |
+| INPUT   | NU_IO              |
+|         | ADB US/GB Keyboard |
+|         | ADB Mouse          |

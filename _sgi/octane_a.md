@@ -1,8 +1,21 @@
 ---
 title: Silicon Graphics Octane (a)
-excerpt: "The Lhasa Apso is a non-sporting dog breed originating in Tibet."
+excerpt: First Octane
 ---
 
-> The Lhasa Apso (/ˈlɑːsə ˈæpsoʊ/ lah-sə ap-soh) is a non-sporting dog breed originating in Tibet. It was bred as an interior sentinel in the Buddhist monasteries, to alert the monks to any intruders who entered. Lhasa is the capital city of Tibet, and apso is a word in the Tibetan language meaning "bearded", so, Lhasa Apso simply means "long-haired Lhasa dog". There are, however, some who claim that the word "apso" is a form of the Tibetan word "rapso", meaning "goat-like", which would make the equivalent translation "wooly Lhasa dog".
+## Specs
 
-> <cite>From Wikipedia, the free encyclopedia</cite>
+|             |                           | Model Number       |
+|-------------|---------------------------|--------------------|
+| MAINBOARD   | IP30                      | 030-0887-004 Rev C |
+| CPU         | Dual 225mhz R10000 1mb L2 | 013-1271-002       |
+| RAM         | 2GB                       |                    |
+| FRONTPLANE  | XBow 1.3                  | 030-0891-003 Rev E |
+| STORAGE     | 36GB                      |                    |
+|             | 73GB                      |                    |
+| VIDEO       | SI                        | 030-0938-003 Rev A |
+| XIO         | PCI-Cage                  | 013-2304-001 Rev A |
+|             |                           | 030-0952-005 Rev E |
+| POWERSUPPLY |                           |                    |
+| INPUT       | SGI Granite Keyboard      | RT6856T            |
+|             | Logitech PS/2Mouse        |                    |

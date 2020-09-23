@@ -1,13 +1,27 @@
 main:
   # - title: "Posts"
   #   url: /posts/
-  - title: SGI
-    url: /sgi/
   - title: NeXT
     url: /next/
-  - title: Categories
-    url: /categories/
-  - title: Tags
-    url: /tags/
+  - title: SGI
+    url: /sgi/
+  # - title: Categories
+  #   url: /categories/
+  # - title: Tags
+  #   url: /tags/
   - title: About
     url: /about/
+
+retro:
+  - title: NeXT
+    children:
+      - title: Turbo
+        url: /next/turbo/
+      - title: Turbo Color
+        url: /next/turbo_color/
+  - title: SGI
+    children:
+      - title: Octane (a)
+        url: /sgi/octane_a/
+      - title: Octane (b)
+        url: /sgi/octane_b/
