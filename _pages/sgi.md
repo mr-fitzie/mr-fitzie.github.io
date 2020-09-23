@@ -1,11 +1,11 @@
 ---
 title: SGI
-layout: collection
-permalink: /sgi/
-collection: sgi
+layout: tag
+permalink: /retro-computers/sgi/
 entries_layout: grid
 classes: wide
-excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+taxonomy: sgi
 header:
   overlay_color: "#666"
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."  
 ---

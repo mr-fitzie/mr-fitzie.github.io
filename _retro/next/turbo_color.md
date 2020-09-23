@@ -1,6 +1,8 @@
 ---
 title: NeXT NeXTstation Turbo Color
 excerpt: Second NeXTstation
+header:
+    overlay_color: "#333"
 manufacturer: NeXT
 ---
 

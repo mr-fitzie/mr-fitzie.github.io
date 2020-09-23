@@ -55,15 +55,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  #name   : "First Lastname"
-  #avatar : "/assets/images/bio-photo.jpg"
-  #bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Chris"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Cars, Retro Computing and 3D Printing"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
     - label: "Thingiverse"
-      icon: "fab fa-fw fa-cube-square"
+      icon: "fab fa-fw fa-cube"
       url: "https://www.thingiverse.com/mr_fitz/designs"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
@@ -75,7 +75,7 @@ author:
 footer:
   links:
     - label: "Thingiverse"
-      icon: "fab fa-fw fa-cube-square"
+      icon: "fab fa-fw fa-cube"
       url: "https://www.thingiverse.com/mr_fitz/designs"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
@@ -89,12 +89,6 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: manufacturer
-  # sgi:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # next:
-  #   output: true
-  #   permalink: /:collection/:path/
 
 defaults:
   # _pages
@@ -103,21 +97,21 @@ defaults:
       type: pages
     values:
       layout: single
-      #author_profile: true
+      author_profile: true
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      #author_profile: true
+      author_profile: true
   # _retro
   - scope:
       path: ""
       type: retro
     values:
       layout: single
-      #author_profile: true
+      author_profile: true
       sidebar:
         nav: retro
 

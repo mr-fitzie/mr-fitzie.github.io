@@ -3,12 +3,14 @@ main:
     url: /retro/
   - title: "Posts"
     url: /posts/
+  - title: Retro Computers
+    url: /retro-computers/
   - title: NeXT
-    url: /retro/next/
+    url: /retro-computers/next/
   - title: SGI
-    url: /retro/sgi/
+    url: /retro-computers/sgi/
   - title: SUN
-    url: /retro/sun/
+    url: /retro-computers/sun/
   - title: Collections
     url: /collection-archive/
   - title: Categories

@@ -4,7 +4,7 @@ layout: category
 permalink: /retro-computers/
 taxonomy: retro-computers
 header:
-    overlay_color: #999
+    overlay_color: "#999"
 excerpt: Retro Computing is fun
 ---
 

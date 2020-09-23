@@ -1,8 +1,8 @@
 ---
 title: Silicon Graphics Octane (a)
-header:
-    overlay_color: #472b91
 excerpt: First Octane
+header:
+    overlay_color: "#472b91"
 manufacturer: SGI
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: NeXT NeXTstation Turbo
+header:
+    overlay_color: "#333"
 categories:
     - retro-computers
 tags:
