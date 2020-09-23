@@ -1,5 +1,5 @@
 ---
-title: NeXT NeXTstation Turbo
+title: NeXT NeXTstation Turbo Color
 header:
   overlay_color: "#222"
 categories:
