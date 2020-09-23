@@ -12,7 +12,7 @@ tags:
 
 |         |                    | Model Number |
 |---------|--------------------|--------------|
-| CPU     | 68040 33mhz        | |
+| CPU     | 33 MHz 68040       | |
 | ROM     | V74                | |
 | RAM     | 128mb              | |
 | STORAGE | SCSI2SD v5.1       | |

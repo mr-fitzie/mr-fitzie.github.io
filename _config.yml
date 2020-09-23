@@ -51,7 +51,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -89,6 +88,7 @@ collections:
   retro:
     output: true
     permalink: /:collection/:path/
+    sort_by: manufacturer
   # sgi:
   #   output: true
   #   permalink: /:collection/:path/

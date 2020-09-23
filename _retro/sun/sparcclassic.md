@@ -1,6 +1,7 @@
 ---
 title: Sun SPARCclassic
 excerpt: A classic Lunchbox formfactor
+manufacturer: Sun
 ---
 
 ## Specs

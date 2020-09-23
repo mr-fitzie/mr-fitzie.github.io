@@ -1,6 +1,7 @@
 ---
 title: Silicon Graphics Octane (a)
 excerpt: First Octane
+manufacturer: SGI
 ---
 
 ## Specs

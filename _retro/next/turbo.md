@@ -1,13 +1,14 @@
 ---
-title: NeXTstation Turbo
+title: NeXT NeXTstation Turbo
 excerpt: First NeXTstation
+manufacturer: NeXT
 ---
 
 ## Specs
 
 |         |                             |
 |---------|-----------------------------|
-| CPU     | 68040 33mhz                 |
+| CPU     | 33 MHz 68040                |
 | ROM     | V71                         |
 | RAM     | 32mb                        |
 | STORAGE | SCSI2SD v5.1                |
