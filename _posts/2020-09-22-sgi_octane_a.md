@@ -3,14 +3,24 @@ title: Silicon Graphics Octane (a)
 header:
   overlay_color: "#472b91"
 categories:
-  - retro-computers
+  - retro_computers
+  - sgi
 tags:
   - sgi
+  - octane
+  - specs
+sidebar:
+  - title: Manufacturer
+    text: Silicon Graphics
+  - title: Model
+    text: Octane
+  - title: Model Number
+    text: CMNB015ANF175  
 ---
 
 ## Specs
 
-|             |                           | Model Number       |
+|             | Model                     | Model Number       |
 |-------------|---------------------------|--------------------|
 | MAINBOARD   | IP30                      | 030-0887-004 Rev C |
 | CPU         | Dual 225mhz R10000 1mb L2 | 013-1271-002       |

@@ -3,21 +3,24 @@ title: Silicon Graphics Octane (b)
 header:
   overlay_color: "#472b91"
 categories:
-  - retro-computers
+  - retro_computers
+  - sgi
 tags:
   - sgi
+  - octane
+  - specs
 sidebar:
-    - title: Manufacturer
-      text: Silicon Graphics
-    - title: Model
-      text: Octane
-    - title: Model Number
-      text: CMNB015ANF250
+  - title: Manufacturer
+    text: Silicon Graphics
+  - title: Model
+    text: Octane
+  - title: Model Number
+    text: CMNB015ANF250
 ---
 
 ## Specs
 
-|             |                           | Model Number       |
+|             | Model                     | Model Number       |
 |-------------|---------------------------|--------------------|
 | MAINBOARD   | IP30                      | 030-0887-005 Rev A |
 | CPU         | Dual 400mhz R12000 2mb L2 | 030-1476-001 Rev D |

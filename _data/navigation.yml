@@ -1,39 +1,23 @@
 main:
-  - title: "Retro"
-    url: /retro/
-  - title: "Posts"
-    url: /posts/
+  # - title: "Retro"
+  #   url: /retro/
+  # - title: "Posts"
+  #   url: /posts/
+  - title: Design
+    url: /design/
   - title: Retro Computers
-    url: /retro-computers/
+    url: /retro_computers/
   - title: NeXT
-    url: /retro-computers/next/
+    url: /retro_computers/next/
   - title: SGI
-    url: /retro-computers/sgi/
+    url: /retro_computers/sgi/
   - title: SUN
-    url: /retro-computers/sun/
-  - title: Collections
-    url: /collection-archive/
-  - title: Categories
-    url: /categories/
-  - title: Tags
-    url: /tags/
+    url: /retro_computers/sun/
+  # - title: Collections
+  #   url: /collection-archive/
+  # - title: Categories
+  #   url: /categories/
+  # - title: Tags
+  #   url: /tags/
   - title: About
     url: /about/
-
-retro:
-  - title: NeXT
-    children:
-      - title: Turbo
-        url: /retro/next/turbo/
-      - title: Turbo Color
-        url: /retro/next/turbo_color/
-  - title: SGI
-    children:
-      - title: Octane (a)
-        url: /retro/sgi/octane_a/
-      - title: Octane (b)
-        url: /retro/sgi/octane_b/
-  - title: Sun
-    children:
-      - title: SPARCclassic
-        url: /retro/sun/sparcclassic
