@@ -3,7 +3,7 @@ title: SCSI2SD v5.1 / v6 Internal 5.25" Adapter
 header:
   overlay_color: "#444"
 categories:
-  - design
+  - designs
   - generic
 tags:
   - 3d_printing

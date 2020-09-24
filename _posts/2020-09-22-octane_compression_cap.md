@@ -3,7 +3,7 @@ title: Octane Compression Cap
 header:
   overlay_color: "#444"
 categories:
-  - design
+  - designs
   - sgi
 tags:
   - 3d_printing

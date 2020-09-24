@@ -5,8 +5,7 @@ permalink: /retro_computers/
 taxonomy: specs
 header:
   overlay_color: "#333"
-except:
-  Retro-Computing Machines
+except: Retro-Computing Nostalgia
 ---
 
-`Retro Computers` Posts
+Retro Computers I have collected

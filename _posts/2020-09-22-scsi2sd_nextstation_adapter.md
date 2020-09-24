@@ -3,7 +3,7 @@ title: SCSI2SD v5.1 / v6 NeXTstation Adapter
 header:
   overlay_color: "#444"
 categories:
-  - design
+  - designs
   - next
 tags:
   - 3d_printing
