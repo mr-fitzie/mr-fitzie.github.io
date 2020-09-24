@@ -15,7 +15,7 @@ sidebar:
   - title: Model
     text: SPARCclassic
   - title: Model Number
-    text: 4/15    
+    text: 4/15
 ---
 
 Iconic lunchbox design

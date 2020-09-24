@@ -15,7 +15,7 @@ sidebar:
   - title: Model
     text: Octane
   - title: Model Number
-    text: CMNB015ANF175  
+    text: CMNB015ANF175
 ---
 
 IRIX Workstation

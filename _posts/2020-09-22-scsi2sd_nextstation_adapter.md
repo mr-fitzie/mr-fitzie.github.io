@@ -17,7 +17,7 @@ gallery:
   - url: /assets/images/design_next_scsi2sd_nextstation_b.jpg
     image_path: /assets/images/design_next_scsi2sd_nextstation_b-th.jpg
     alt: "SCSI2SD v5.1 / v6 NeXTstation Adapter"
-    title: "SCSI2SD v5.1 / v6 NeXTstation Adapter"  
+    title: "SCSI2SD v5.1 / v6 NeXTstation Adapter"
 ---
 
 Adapter to install SCSI2SD v5.1 / v6 into a NeXTstation

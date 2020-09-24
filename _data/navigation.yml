@@ -3,8 +3,8 @@ main:
   #   url: /retro/
   # - title: "Posts"
   #   url: /posts/
-  - title: Design
-    url: /design/
+  - title: Parts Designs
+    url: /designs/
   - title: Retro Computers
     url: /retro_computers/
   - title: NeXT
